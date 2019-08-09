@@ -1,0 +1,3 @@
+http://kowalstwwo.pl/application/configs/application.ini
+http://www.sascom-sa.com//application/configs/application.ini
+http://dichvubaovevietnhat.com//application/configs/application.ini
